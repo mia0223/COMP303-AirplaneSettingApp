@@ -2,3 +2,5 @@
 An application implemented by Java and JavaSwing for simulating multiple users chooing seats. 
 <br>
 <b>This small application based on multi-threads and OO programing</b>
+
+![Alt text](/relative/path/to/state-diagram.png?raw=true "Optional Title")
